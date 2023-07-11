@@ -1,35 +1,28 @@
-### Hi, I'm Juliana 👋
+## Hi there, I'm Juliana! 👋
 
-- 👩🏽‍💻 I’m a Full Stack Engineer based in Canada
+- 👩🏻‍💻 I’m a Full Stack Developer based in Canada.
+- 🌱 Currently expanding my skillset with TypeScript and Python.
+- 😄 Pronouns: She/her/hers.
+- 📫 You can reach me at jmochizuki.dev@gmail.com.
+- 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/jmochizuki).
+- 🌐 Visit my personal website [here](https://julianamochizuki.netlify.app). Let's connect!
 
-**Check out my personal website [here](https://julianamochizuki.netlify.app). Let's connect!**
+**Technologies I work with:**
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&style=for-the-badge)
+![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=ruby&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-000?&logo=react&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=redux&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&style=for-the-badge)
+![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jquery&style=for-the-badge)
+![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=material-ui&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap&style=for-the-badge)
+![SASS](https://img.shields.io/badge/-SASS-000?&logo=sass&style=for-the-badge)
+![Mocha](https://img.shields.io/badge/-Mocha-000?&logo=mocha&style=for-the-badge)
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=jest&style=for-the-badge)
+![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=cypress&style=for-the-badge)
 
-**Technologies I use:**
-
-![](https://img.shields.io/badge/-JavaScript-000?&logo=javascript&style=for-the-badge)
-![](https://img.shields.io/badge/-React-000?&logo=react&style=for-the-badge)
-![](https://img.shields.io/badge/-Redux-000?&logo=redux&style=for-the-badge)
-![](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&style=for-the-badge)
-![](https://img.shields.io/badge/-HTML-000?&logo=html5&style=for-the-badge)
-![](https://img.shields.io/badge/-CSS-000?&logo=css3&style=for-the-badge)
-![](https://img.shields.io/badge/-Express-000?&logo=express&style=for-the-badge)
-![](https://img.shields.io/badge/-Node.js-000?&logo=node.js&style=for-the-badge)
-![](https://img.shields.io/badge/-Cypress-000?&logo=Cypress&style=for-the-badge)
-![](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&style=for-the-badge)
-
-<!--
-**julianamochizuki/julianamochizuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username)
