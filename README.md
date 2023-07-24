@@ -24,5 +24,3 @@
 ![Mocha](https://img.shields.io/badge/-Mocha-000?&logo=mocha&style=for-the-badge)
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=jest&style=for-the-badge)
 ![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=cypress&style=for-the-badge)
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username)
