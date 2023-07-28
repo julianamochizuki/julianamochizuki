@@ -1,11 +1,14 @@
-## Hi there, I'm Juliana! 👋
+[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Website-rgb(103%2C%20235%2C%20207))]([https://www.your-portfolio-website.com](https://julianamochizuki.netlify.app/)/)
+[![LinkedIn](https://img.shields.io/badge/Linked-In-0c66c3.svg)](https://www.linkedin.com/in/jmochizuki/)
 
-- 👩🏻‍💻 I’m a Full Stack Developer based in Canada.
+## Hi, I am Juliana! 👋
+
+- 👩🏻‍💻 I am a Full Stack Developer based in Canada.
 - 🌱 Currently expanding my skillset with TypeScript and Python.
 - 😄 Pronouns: She/her/hers.
 - 📫 You can reach me at jmochizuki.dev@gmail.com.
-- 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/jmochizuki).
-- 🌐 Visit my personal website [here](https://julianamochizuki.netlify.app). Let's connect!
+- 🌐 Visit my personal website [here](https://julianamochizuki.netlify.app).
+- 💻 Let's connect on [LinkedIn](https://www.linkedin.com/in/jmochizuki)!
 
 **Technologies I work with:**
 
@@ -18,7 +21,7 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jquery&style=for-the-badge)
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=material-ui&style=for-the-badge)
+![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=mui&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap&style=for-the-badge)
 ![SASS](https://img.shields.io/badge/-SASS-000?&logo=sass&style=for-the-badge)
 ![Mocha](https://img.shields.io/badge/-Mocha-000?&logo=mocha&style=for-the-badge)
