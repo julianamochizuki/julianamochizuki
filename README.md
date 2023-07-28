@@ -1,15 +1,15 @@
 ## Hi, I am Juliana! 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Website-rgb(103%2C%20235%2C%20207))]([https://julianamochizuki.netlify.app/])
+[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Website-rgb(103%2C%20235%2C%20207))](https://julianamochizuki.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/Linked-In-0c66c3.svg)](https://www.linkedin.com/in/jmochizuki/)
 
 
-- 👩🏻‍💻 I am a Full Stack Developer based in Canada.
-- 🌱 Currently expanding my skillset with TypeScript and Python.
-- 😄 Pronouns: She/her/hers.
-- 📫 You can reach me at jmochizuki.dev@gmail.com.
-- 🌐 Visit my personal website [here](https://julianamochizuki.netlify.app).
-- 💻 Let's connect on [LinkedIn](https://www.linkedin.com/in/jmochizuki)!
+* I am a Full Stack Developer based in Canada.
+* Currently expanding my skillset with TypeScript and Python.
+* Pronouns: She/her/hers.
+* You can reach me at jmochizuki.dev@gmail.com.
+* Visit my personal website [here](https://julianamochizuki.netlify.app).
+* Let's connect on [LinkedIn](https://www.linkedin.com/in/jmochizuki)!
 
 **Technologies I work with:**
 
