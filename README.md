@@ -1,7 +1,8 @@
-[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Website-rgb(103%2C%20235%2C%20207))]([https://www.your-portfolio-website.com](https://julianamochizuki.netlify.app/)/)
+## Hi, I am Juliana! 👋
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Website-rgb(103%2C%20235%2C%20207))]([https://julianamochizuki.netlify.app/])
 [![LinkedIn](https://img.shields.io/badge/Linked-In-0c66c3.svg)](https://www.linkedin.com/in/jmochizuki/)
 
-## Hi, I am Juliana! 👋
 
 - 👩🏻‍💻 I am a Full Stack Developer based in Canada.
 - 🌱 Currently expanding my skillset with TypeScript and Python.
